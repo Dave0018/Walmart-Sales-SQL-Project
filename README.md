@@ -9,5 +9,5 @@ Tools: SQL Server, SSMS, Excel.
 ## Screenshots
 
 ![Raw Data](Rough.PNG)
-![Clean Table](main table.PNG)
+![Clean Table](maintable.PNG)
 ![Query Result](nbb.PNG)
